@@ -1,6 +1,6 @@
 #   idea
     -   vim color scheme that should work with any terminal color scheme that satisfies proposed assumption
-    -   distinguishs only three elements
+    -   distinguishes only three elements
         -   code
         -   constants (number, string, ...)
         -   comments
