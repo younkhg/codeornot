@@ -65,7 +65,7 @@ hi vimNotation      cterm=NONE ctermfg=5 ctermbg=NONE
 
 hi MatchParen    cterm=NONE ctermfg=NONE ctermbg=14
 
-hi CursorLine      cterm=NONE ctermfg=NONE ctermbg=8
+hi CursorLine      cterm=NONE ctermfg=NONE ctermbg=NONE
 
 hi LineNr          cterm=none ctermfg=7    ctermbg=8
 hi CursorLineNR    cterm=none ctermfg=8    ctermbg=7
