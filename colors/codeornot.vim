@@ -132,6 +132,7 @@ hi Function                             cterm=NONE ctermfg=NONE ctermbg=NONE
 hi Operator                             cterm=NONE ctermfg=NONE ctermbg=NONE
 hi @variable                            cterm=NONE ctermfg=NONE ctermbg=NONE
 hi Error                                cterm=NONE ctermfg=NONE ctermbg=NONE
+hi vimNotation                          cterm=NONE ctermfg=NONE ctermbg=NONE
 
 
 "hi CursorColumn    ctermfg=NONE    ctermbg=NONE    cterm=NONE
