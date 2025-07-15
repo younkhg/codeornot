@@ -78,6 +78,8 @@ hi TabLineFill ctermfg=NONE ctermbg=NONE cterm=reverse
 hi TabLine     ctermfg=NONE ctermbg=NONE cterm=reverse
 hi TabLineSel  ctermfg=NONE ctermbg=NONE cterm=NONE
 
+hi @markup.raw.vimdoc ctermfg=5 ctermbg=NONE cterm=NONE
+
 " no highlights
 hi VertSplit                            cterm=NONE ctermfg=NONE ctermbg=NONE
 hi markdownItalic                       ctermfg=NONE ctermbg=NONE cterm=NONE
@@ -133,7 +135,6 @@ hi Operator                             cterm=NONE ctermfg=NONE ctermbg=NONE
 hi @variable                            cterm=NONE ctermfg=NONE ctermbg=NONE
 hi Error                                cterm=NONE ctermfg=NONE ctermbg=NONE
 hi vimNotation                          cterm=NONE ctermfg=NONE ctermbg=NONE
-
 
 "hi CursorColumn    ctermfg=NONE    ctermbg=NONE    cterm=NONE
 "hi FoldColumn      ctermfg=NONE    ctermbg=NONE    cterm=NONE
