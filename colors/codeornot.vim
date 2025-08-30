@@ -24,6 +24,7 @@ hi IncSearch         cterm=NONE ctermfg=0 ctermbg=13
 hi CurSearch         cterm=NONE ctermfg=0 ctermbg=13
 
 hi Comment           cterm=NONE ctermfg=4 ctermbg=NONE gui=NONE
+hi vimCommentString  cterm=NONE ctermfg=4 ctermbg=NONE gui=NONE
 hi vimCommentTitle   cterm=NONE ctermfg=4 ctermbg=NONE gui=NONE
 hi NERDTreeUp        cterm=NONE ctermfg=4 ctermbg=NONE gui=NONE
 hi pythonEscape      cterm=NONE ctermfg=4 ctermbg=NONE gui=NONE
