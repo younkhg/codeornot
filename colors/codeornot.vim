@@ -68,8 +68,8 @@ hi MatchParen    cterm=NONE ctermfg=NONE ctermbg=14
 
 hi CursorLine      cterm=NONE ctermfg=NONE ctermbg=NONE
 
-hi LineNr          cterm=none ctermfg=7    ctermbg=8
-hi CursorLineNR    cterm=none ctermfg=8    ctermbg=7
+hi LineNr          cterm=none ctermfg=8    ctermbg=7
+hi CursorLineNR    cterm=none ctermfg=7    ctermbg=8
 highlight! link SignColumn LineNr
 
 hi StatusLine       cterm=reverse ctermfg=NONE ctermbg=NONE
@@ -80,6 +80,10 @@ hi TabLine     ctermfg=NONE ctermbg=NONE cterm=reverse
 hi TabLineSel  ctermfg=NONE ctermbg=NONE cterm=NONE
 
 hi @markup.raw.vimdoc ctermfg=5 ctermbg=NONE cterm=NONE
+
+hi NormalFloat cterm=reverse
+hi FloatTitle cterm=reverse
+hi FloatFooter cterm=reverse
 
 " no highlights
 hi VertSplit                            cterm=NONE ctermfg=NONE ctermbg=NONE
