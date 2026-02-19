@@ -81,6 +81,7 @@ hi TabLineSel  ctermfg=NONE ctermbg=NONE cterm=NONE
 
 hi @markup.raw.vimdoc ctermfg=5 ctermbg=NONE cterm=NONE
 hi @lsp.type.enumMember.cpp ctermfg=NONE ctermbg=NONE cterm=NONE
+hi @lsp.type.macro.cpp ctermfg=NONE ctermbg=NONE cterm=NONE
 
 hi NormalFloat cterm=reverse
 hi FloatTitle cterm=reverse
