@@ -143,6 +143,8 @@ hi @variable                            cterm=NONE ctermfg=NONE ctermbg=NONE
 hi Error                                cterm=NONE ctermfg=NONE ctermbg=NONE
 hi vimNotation                          cterm=NONE ctermfg=NONE ctermbg=NONE
 
+hi NERDTreeDir cterm=NONE ctermfg=4 ctermbg=NONE
+
 "hi CursorColumn    ctermfg=NONE    ctermbg=NONE    cterm=NONE
 "hi FoldColumn      ctermfg=NONE    ctermbg=NONE    cterm=NONE
 "hi SignColumn      ctermfg=NONE    ctermbg=NONE    cterm=NONE
