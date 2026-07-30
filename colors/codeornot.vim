@@ -87,6 +87,10 @@ hi NormalFloat cterm=reverse
 hi FloatTitle cterm=reverse
 hi FloatFooter cterm=reverse
 
+hi GitGutterAdd    ctermfg=2
+hi GitGutterChange ctermfg=4
+hi GitGutterDelete ctermfg=1
+
 " no highlights
 hi VertSplit                            cterm=NONE ctermfg=NONE ctermbg=NONE
 hi markdownItalic                       ctermfg=NONE ctermbg=NONE cterm=NONE
