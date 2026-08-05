@@ -66,10 +66,10 @@ hi vimNotation      cterm=NONE ctermfg=5 ctermbg=NONE
 
 hi MatchParen    cterm=NONE ctermfg=NONE ctermbg=14
 
-hi CursorLine      cterm=NONE ctermfg=NONE ctermbg=15
+hi CursorLine      cterm=NONE ctermfg=NONE ctermbg=NONE
 
 hi LineNr          cterm=none ctermfg=8    ctermbg=7
-hi CursorLineNR    cterm=none ctermfg=7    ctermbg=8
+hi CursorLineNR    cterm=none ctermfg=8    ctermbg=7
 highlight! link SignColumn LineNr
 
 hi StatusLine       cterm=reverse ctermfg=NONE ctermbg=NONE
@@ -87,9 +87,9 @@ hi NormalFloat cterm=reverse
 hi FloatTitle cterm=reverse
 hi FloatFooter cterm=reverse
 
-hi GitGutterAdd    ctermfg=2
-hi GitGutterChange ctermfg=4
-hi GitGutterDelete ctermfg=1
+hi GitGutterAdd    ctermbg=2 ctermfg=15
+hi GitGutterChange ctermbg=4 ctermfg=15
+hi GitGutterDelete ctermbg=1 ctermfg=15
 
 " no highlights
 hi VertSplit                            cterm=NONE ctermfg=NONE ctermbg=NONE
