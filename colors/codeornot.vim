@@ -66,10 +66,10 @@ hi vimNotation      cterm=NONE ctermfg=5 ctermbg=NONE
 
 hi MatchParen    cterm=NONE ctermfg=NONE ctermbg=14
 
-hi CursorLine      cterm=NONE ctermfg=NONE ctermbg=NONE
+hi CursorLine      cterm=NONE ctermfg=NONE ctermbg=15
 
-hi LineNr          cterm=none ctermfg=8    ctermbg=7
-hi CursorLineNR    cterm=none ctermfg=8    ctermbg=7
+hi LineNr          cterm=none ctermfg=7    ctermbg=8
+hi CursorLineNR    cterm=none ctermfg=7    ctermbg=8
 highlight! link SignColumn LineNr
 
 hi StatusLine       cterm=reverse ctermfg=NONE ctermbg=NONE
