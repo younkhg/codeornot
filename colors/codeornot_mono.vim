@@ -17,11 +17,11 @@ hi clear Title
 hi clear Keyword
 
 hi Normal            cterm=NONE ctermfg=NONE ctermbg=NONE
-hi Visual            cterm=NONE ctermfg=15 ctermbg=0
+hi Visual            cterm=NONE ctermfg=15 ctermbg=6
 
-hi Search            cterm=NONE ctermfg=15 ctermbg=5
-hi IncSearch         cterm=NONE ctermfg=15 ctermbg=5
-hi CurSearch         cterm=NONE ctermfg=15 ctermbg=5
+hi Search            cterm=NONE ctermfg=15 ctermbg=1
+hi IncSearch         cterm=NONE ctermfg=15 ctermbg=1
+hi CurSearch         cterm=NONE ctermfg=15 ctermbg=1
 
 hi Comment           cterm=NONE ctermfg=4 ctermbg=NONE gui=NONE
 hi vimCommentString  cterm=NONE ctermfg=4 ctermbg=NONE gui=NONE
